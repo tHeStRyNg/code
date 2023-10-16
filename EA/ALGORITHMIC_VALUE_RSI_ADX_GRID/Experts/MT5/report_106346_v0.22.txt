@@ -1,0 +1,9 @@
+test on EURUSD,H1 (netting)
+strategy tester report 5 total trades
+test on XAUUSD,D1 (netting)
+strategy tester report 9 total trades
+test on GBPUSD,M30 (netting)
+strategy tester report 154 total trades
+test on EURUSD,M1 (netting)
+ EURUSD: no history data from 2019.02.01 00:00 to 2019.07.01 00:00
+there are no trading operations
