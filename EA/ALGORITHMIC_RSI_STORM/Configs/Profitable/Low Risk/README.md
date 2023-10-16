@@ -1,0 +1,150 @@
+## Profitable Configuration Sets found in BackTesting Datasets
+## Description
+These Tests were profitable and therefore mapped so can be used.
+
+## Condition to be Profitable Confguration
+- Total Net Profit: +0
+- Equity Drawdown Maximal: < 5% total Equity (200k total = 10k max dd)
+### Optional
+- Has mininal loss trades
+- reduced drawdown: <= 2.5%
+- fast open and close of trades: -5 minutes
+
+## Profitable DataSet - LOW RISK
+
+## v0.80.1_h4_003 - Time Range: from 01.02.2023 to 09.03.2023 Time Range
+### Graph
+![image](https://user-images.githubusercontent.com/118682909/224510754-014c3b34-8528-4a43-b09d-ed0e210d6888.png)
+
+![image](https://user-images.githubusercontent.com/118682909/224511079-e8b3aa8e-589d-4c71-9ee4-24946500a167.png)
+
+### BackTest 
+![image](https://user-images.githubusercontent.com/118682909/224511095-e910832a-b402-494f-b8f0-9f8c52bee545.png)
+
+
+## v0.80.1_h4_003 - Time Range: from 01.01.2022 to 30.12.2022 Time Range
+### Graph
+
+
+### BackTest
+
+
+## v0.80.1_m3__XXX
+### Graph
+
+
+### BackTest
+
+
+## v0.80.1_m4__XXX
+### Graph
+
+
+### BackTest
+
+
+## v0.80.1_m5__XXX
+### Graph
+
+
+### BackTest
+
+
+## v0.80.1_m6__XXX
+### Graph
+
+
+### BackTest
+
+
+## v0.80.1_m10__XXX
+### Graph
+
+
+### BackTest
+
+
+## v0.80.1_m12__XXX
+### Graph
+
+
+### BackTest
+
+
+## v0.80.1_m15__XXX
+### Graph
+
+
+### BackTest
+
+
+## v0.80.1_m20__XXX
+### Graph
+
+
+### BackTest
+
+
+## v0.80.1_m30__XXX
+### Graph
+
+
+### BackTest
+
+
+## v0.80.1_h1__XXX
+### Graph
+
+
+### BackTest
+
+
+## v0.80.1_h2__XXX
+### Graph
+
+
+### BackTest
+
+
+## v0.80.1_h3__XXX
+### Graph
+
+
+### BackTest
+
+
+## v0.80.1_h4__XXX
+### Graph
+
+
+### BackTest
+
+
+## v0.80.1_h6__XXX
+### Graph
+
+
+### BackTest
+
+
+## v0.80.1_h8__XXX
+### Graph
+
+
+### BackTest
+
+
+## v0.80.1_h12__XXX
+### Graph
+
+
+### BackTest
+
+
+## v0.80.1_d__XXX
+### Graph
+
+
+### BackTest
+
+
