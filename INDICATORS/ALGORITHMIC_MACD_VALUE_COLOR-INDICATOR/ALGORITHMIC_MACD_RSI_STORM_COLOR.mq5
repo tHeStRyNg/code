@@ -59,8 +59,8 @@ double Buffer6[];
 
 input int Fast_EMA = 12;
 input int Slow_EMA = 26;
-input double Levels_Buy = 0.0005;
-input double Levels_Sell = -0.0005;
+input double Levels_Buy = 0.00005;
+input double Levels_Sell = -0.00005;
 double myPoint; //initialized in OnInit
 int MACD_handle;
 double MACD_Main[];
