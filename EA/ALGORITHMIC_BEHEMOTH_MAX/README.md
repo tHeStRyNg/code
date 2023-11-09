@@ -1,7 +1,7 @@
 Introducing Behemoth Max
 
 Behemoth Max is based on a new strategy in which correlates MACD, WMA, EMA, ATR Indicators with M5-H1, H1-D1 and D1-W1 Timeframes.
-Behemoth Max is an advanced trading robot designed for the MetaTrader 5 (MT5) platform, engineered to execute trades based on a cutting-edge strategy that leverages a combination of technical indicators and multiple timeframes. This powerful trading bot aims to provide users with a highly efficient and diversified approach to the forex and financial markets.
+Behemoth Max is an advanced trading robot designed for the MetaTrader 4 (MT4) platform, engineered to execute trades based on a cutting-edge strategy that leverages a combination of technical indicators and multiple timeframes. This powerful trading bot aims to provide users with a highly efficient and diversified approach to the forex and financial markets.
 
 
 Key Features:
