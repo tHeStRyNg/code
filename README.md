@@ -1,7 +1,3 @@
-Absolutely! Here's an updated `README.md` for your GitHub repository, incorporating your website, trading university, online store, and YouTube channel:
-
----
-
 # Algorithmic Trading EAs & Indicators for MT4/MT5
 
 Welcome to the **Algorithmic Trading** repository—a comprehensive collection of open-source Expert Advisors (EAs), custom indicators, configuration files, and backtest reports for MetaTrader 4 (MT4) and MetaTrader 5 (MT5). This project is designed for traders and developers interested in building, testing, and refining algorithmic trading strategies.
@@ -68,8 +64,4 @@ For questions, suggestions, or collaborations, please reach out via:
 
 ## 📄 License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
-
-Feel free to customize this `README.md` further to align with your project's specifics and personal preferences. 
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.---
